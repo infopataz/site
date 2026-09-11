@@ -1,0 +1,74 @@
+Vigente desde 05/05/2026
+
+CARO USUÁRIO, É IMPORTANTE QUE VOCÊ LEIA ATENTAMENTE ESTA POLÍTICA DE PRIVACIDADE, ASSIM COMO O TERMO DE USO E CONDIÇÕES GERAIS DO APLICATIVO (LICENÇA DE INSTALAÇÃO E USO) ANTES DE INSTALÁ-LO E USÁ-LO. AO ACEITAR, VOCÊ CONCORDARÁ COM O CONTEÚDO AQUI DESCRITO. CASO DISCORDE, NÃO AVANCE COM A INSTALAÇÃO E TAMPOUCO COM O USO ESTE APLICATIVO.
+
+GLOSSÁRIO DE TERMOS
+Pet: Animal de estimação cujos dados serão incluídos no aplicativo.
+Tutor: Qualquer pessoa, maior de 18 anos, responsável pelo cuidado com animal de estimação.
+Usuário: Qualquer pessoa com idade superior a 18 anos. Menores de idade poderão utilizar o aplicativo desde que o consentimento para o tratamento de seus dados seja fornecido de forma específica e em destaque por pelo menos um dos pais ou pelo responsável legal, conforme o Art. 14 da LGPD.
+
+1 – PARTES E OBJETO
+Esta Política de Privacidade descreve as práticas da InfoPataz®, Statup incubada na SprinT – Incubadora da UTFPR – Toledo, Endereço Rua Cristo Rei, nº 19 – Toledo/PR., relacionadas aos dados coletados por meio do aplicativo de mesmo nome – InfoPataz – para dispositivos móveis (IOS e Android). A informação pessoal recolhida relacionada ao Usuário pode incluir o nome, número de telefone e/ou celular, endereço de e-mail, endereço residencial, data de nascimento e/ou outros. Além disso, outras informações armazenadas dirão respeito aos dados do Pet, tais como: nome, tipo de animal, raça, cor, data de nascimento, upload de documentos relativos a consultas, exames, fotos e outras mídias visuais e ainda executar diversas funções as quais já estão disponíveis ou serão futuramente disponibilizadas pelo aplicativo durante a sua existência.
+Esta política é aplicada aos dados que identificam os Usuários individualmente (dados pessoais), bem como outros dados fornecidos por estes relativos a seu(s) Pet(s) durante a utilização do aplicativo e durante e após a ativação da conta. Em todos os casos, realiza-se o cumprimento da legislação brasileira relativa à proteção de dados considerando o território nacional (Brasil).
+O download do aplicativo para dispositivos móveis está diretamente condicionado ao aceite do Usuário e seu consentimento a partir do entendimento de que ele leu, entendeu e concordou com a presente Política de Privacidade e com os termos de uso do aplicativo.
+
+2 – INFORMAÇÕES COLETADAS, RECEBIDAS E ARMAZENADAS PELA INFOPATAZ®
+2.1 Consentimento
+A utilização do aplicativo implica no consentimento do Usuário para coleta, armazenamento e uso para fins estatísticos, de parte das informações pessoais fornecidas e suas atualizações, dados de tráfego, endereços IP, entre outros, como gênero, cidade de residência, idade, entre outros. O Usuário desde já autoriza a InfoPataz® a seu critério, a preservar, armazenar todos os conteúdos das informações imputadas pelo Usuário, bem como todos os seus dados pessoais e demais informações fornecidas e/ou coletadas, relacionadas ao(s) Pet(s) cadastrados. Os dados são coletados para a execução do serviço de gerenciar a conta do pet e para o cumprimento de obrigações legais, além do consentimento do usuário para fins de ação marketing, divulgação e promoção de campanhas de vendas.
+2.2 Informações da conta
+Quando o Usuário inicia a utilização do aplicativo, será solicitado que seja registrada uma conta, que inclua informações pessoais para cadastro, tais como seu nome, número de telefone, data de nascimento, gênero, endereço residencial, endereço de e-mail e senha. Essas informações são necessárias para viabilizar e controlar a prestação de serviço ao usuário, segurança na utilização do aplicativo e obedecer aos Termos e Condições de uso.
+2.3 Disponibilidade das Informações
+Quaisquer informações do Usuário, que estejam publicadas em perfis publicamente disponíveis, são de sua própria responsabilidade. A InfoPataz® não se responsabiliza por quaisquer mensagens ou atos de terceiros que ocorram em decorrência da informação que o Usuário tornou publicamente disponível, tanto a terceiros ou mesmo compartilhada pelo próprio Usuário no aplicativo Infopataz ou em outros.
+2.4 Serviços de autenticação
+Caso o Usuário opte por autenticar o acesso a partir de site de terceiros, como por exemplo o Facebook ou Google, a InfoPataz® pode receber informações adicionais ou outras informações autorizadas por esses terceiros.
+2.5 Publicidade e promoções
+Este é um aplicativo comercial, sendo assim poderão ser compartilhadas com o Usuário, algum tipo de campanha, promoção, quiz ou outras ações de marketing e impulsionamento comercial. 
+2.6 Atendimento ao cliente
+Quando o Usuário contatar o departamento de atendimento ao cliente da InfoPataz, é possível que sejam solicitadas novas informações pessoais a fim de preencher o formulário de atendimento e para contatá-lo caso um acompanhamento ou devolutiva de informações seja necessário. A InfoPataz também poderá contatar o usuário utilizando as informações de contato da conta cadastrada pelo mesmo. Além disso, há a possibilidade de realização de coleta de outras informações a respeito de comunicações realizadas entre o usuário e a InfoPataz em caso de solicitação de suporte e retorno de informações sobre o atendimento realizado.
+2.7 Dados de Dispositivos Móveis
+A InfoPataz pode ainda, receber e registrar de forma automática em nossos servidores algumas informações dos dispositivos móveis, identificadores de dispositivos móveis, informação sobre uso de aplicativo, e outras informações de dispositivo e sistema do usuário que se registrar.
+2.8 Chat
+Caso a InfoPataz® venha a disponibilizar o serviço de Chat para que os Usuários possam também contatar uns aos outros por meio de suas contas, as mensagens trocadas por meio do chat poderão ser armazenadas obedecendo a legislação aplicável e para melhorar a qualidade dos nossos serviços.
+Entretanto, a InfoPataz não fará monitoramento, moderação ou exclusão desse tipo de mensagens trocadas com a utilização do chat. Dessa forma, o Usuário deve cautelosamente considerar os riscos de fazer certas afirmações ou fornecer informações pessoais, especialmente informações como endereço preciso. Tais informações podem ser fotografadas/copiadas por outros Usuários dentro ou fora do aplicativo. A InfoPataz não se responsabiliza por ações ou mensagens de terceiros veiculadas a partir de chats.
+2.9 Contatos
+O Usuário está ciente de que o uso do Aplicativo, implica na aceitação aos Termos de Uso Aplicáveis e a esta Política, bem como que a InfoPataz® poderá enviar ao Usuário notificações e e-mails conforme os objetivos do aplicativo.
+
+3 – USO DE INFORMAÇÃO
+Para a prestação dos serviços da Infopataz é possível que sejam utilizadas as informações coletadas e armazenadas relativas ao Pet, incluindo Dados do Usuário, para os propósitos gerais que seguem:
+– Para prover serviços ao cliente, incluindo criar e gerenciar contas de Usuários, resolver dificuldades técnicas e habilitar ou desabilitar funcionalidades;
+– Para auxiliar o Usuário no Manejo e segurança diária de seu Pet (horários de administração de medicamentos, vacinas, alimentação, passeios, etc..);
+– Para fins estatísticos, pesquisas e realização de análises visando a melhoria dos serviços oferecidos pelo aplicativo;
+– Para fazer valer os Termos de Uso, incluindo o combate à fraude e outros ilícitos;
+- As informações prestadas pelos usuários e preenchidas no sistema, relativas ao Pet e seus hábitos, poderão ser agrupadas por similaridade ou categorias e comercializadas como dados gerais de mercado;
+- As informações prestadas pelos usuários e preenchidas no aplicativo, relacionadas ao Pet e seus hábitos, poderão ser agrupadas por similaridade ou categorias e utilizadas como dados estatísticos a fim de promover inovação e melhorias em produtos já comercializados no mercado pet.
+A InfoPataz® se reserva o direito de reter os Dados dos Usuários e eventuais comunicações realizadas por meio do Chat (se este serviço for disponibilizado no aplicativo) enquanto a conta estiver ativa  ou pelo período necessário para cumprir com obrigações legais, ou ainda para defesa em processos judiciais, mesmo após o encerramento da conta do Usuário, salvo manifestação expressa do Usuário em sentido contrário, respeitando o período mínimo de guarda de dados imposto pela legislação aplicável.
+Respeitadas as disposições legais aplicáveis, o Usuário autoriza a InfoPataz® a informar e/ou divulgar seus dados fornecidos e/ou coletados em caso de exigência legal ou se razoavelmente necessário para: Cumprir com o devido processo legal, fazer cumprir os Termos de Uso, responder as alegações de supostas violação de direitos de terceiros e de divulgação indevida de informações para contato de terceiros e para proteger direitos, a propriedade ou a segurança de terceiros ou da própria InfoPataz® e de seus Usuários.
+
+4 – COMPARTILHAMENTO DE INFORMAÇÕES
+Todas as informações que o Usuário imputa no aplicativo são utilizadas tanto para fins estatísticos quanto para identificação de novas oportunidades de inovação, podendo ser compartilhadas com terceiros após a devida compilação e agrupamento por categorias, mas sem a identificação do Usuário. Dessa forma, o Usuário reconhece e concorda expressamente que as informações contidas na base de dados poderão ser total ou parcialmente cedida ou transferida a terceiros, desde que respeitada a finalidade de dar continuidade à atividade prestada pela InfoPataz® ou se existir uma obrigatoriedade legal neste sentido.
+A InfoPataz reserva o direito de compartilhar informação com autoridades públicas ou privadas que permitam lutar contra fraude e abuso em seu aplicativo, investigar suspeitas de violação da lei, ou combater qualquer outra suspeita de descumprimento dos Termos de Uso estabelecidos ou de Lei.
+A InfoPataz poderá compartilhar informações pessoais com autoridades governamentais quando requerido de acordo com a lei aplicável.
+Não serão comercializados, vendidos ou alugados os dados do Usuário a terceiros, apenas os registros relacionados ao Pet. Essa comercialização sempre ocorrerá de forma anonimizada, por agrupamento de características ou categorias, impedindo, dessa forma a reidentificação do tutor e proprietário da informação.
+Ainda, os dados do Usuário e Pet podem ser armazenados em servidores fora do Brasil, sendo que esses países possuem legislação de proteção de dados compatível com a LGPD brasileira.
+
+5 – DIREITOS E CONTROLE DO USUÁRIO
+5.1 Acesso, correção e exclusão
+Conforme a LGPD Art. 18, a InfoPataz® garante ao Usuário, a qualquer momento e mediante requisição facilitada, os seguintes direitos sobre seus dados pessoais:
+•	Confirmação e Acesso: Direito de saber se seus dados estão sendo tratados e de acessar quais informações em nossa base.
+•	Correção: Direito de solicitar a atualização ou correção de dados incompletos, inexatos ou desatualizados.
+•	Anonimização ou Exclusão: Direito de solicitar que dados desnecessários ou tratados em desconformidade com a lei sejam anonimizados, bloqueados ou eliminados.
+•	Portabilidade: Direito de solicitar a transferência dos seus dados pessoais a outro fornecedor de serviço ou produto, conforme regulamentação da Autoridade Nacional (ANPD).
+•	Informação sobre Compartilhamento: Direito de saber com quais entidades públicas ou privadas (parceiros ou órgãos governamentais) a InfoPataz® realizou o uso compartilhado de seus dados.
+•	Revogação do Consentimento: Direito de retirar sua autorização para o tratamento de dados a qualquer momento, sendo informado sobre as consequências (como a impossibilidade de usar certas funções do aplicativo).
+Como exercer: O Usuário poderá exercer esses direitos diretamente nas configurações do aplicativo ou enviando uma solicitação formal para o e-mail: contato@infopataz.com.br. As solicitações serão respondidas em um prazo máximo de 15 dias, conforme regulamentação legal.
+
+6 – SEGURANÇA
+Toda informação coletada é protegida por medidas técnicas (como criptografia e protocolos TLS) e organizacionais para proteger seus dados. Contudo, nenhum sistema é 100% seguro. Em caso de incidentes de segurança que possam gerar risco relevante aos usuários, a InfoPataz® comunicará a Autoridade Nacional de Proteção de Dados (ANPD) e os usuários afetados, conforme a lei e se compromete a gerenciar as informações dos Usuários de acordo com requisitos de segurança e privacidade.
+7 – ALTERAÇÕES, MUDANÇAS E RESCISÕES
+A InfoPataz®, reserva-se ao direito de, a qualquer tempo, modificar estes termos seja incluindo, removendo ou alterando quaisquer de suas cláusulas. Tais modificações terão efeito imediato. Após publicadas tais alterações, ao continuar o uso do aplicativo você terá aceitado e concordado em cumprir com os termos e condições modificados.
+A InfoPataz® pode, de tempos em tempos, modificar ou descontinuar (temporária ou permanentemente) a distribuição ou a atualizado deste aplicativo.
+Esta política é de maio de 2026. Ela poderá ser atualizada periodicamente, cabendo ao Usuário verificar a versão mais atual no momento da utilização do aplicativo. Ao continuar utilizando o aplicativo, o Usuário confirma sua aceitação a quaisquer atualizações a esta Política.
+O Usuário não poderá responsabilizar a InfoPataz®, nem seus diretores, executivos, funcionários, afiliados, agentes, contratados ou licenciados por quaisquer modificações, suspensões ou descontinuidade do aplicativo.
+Caso o Usuário não concorde com as alterações realizadas nesta política e que não deseja concordar, o Usuário poderá descontinuar o uso do aplicativo.
+8 – CONTATO
+O Encarregado de Dados (DPO) pode ser contatado através do e-mail contato@infopataz.com.br para solicitações específicas sobre privacidade. Caso haja dúvidas ou perguntas sobre esta política, as mesmas podem ser direcionadas ao e-mail: contato@infopataz.com.br.

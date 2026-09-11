@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Infopataz • Termos e Condições</title>
+
+    <!-- Fonte -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <!-- Font Awesome -->
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    >
+
+    <!-- CSS desta página -->
+    <link rel="stylesheet" href="termos.css">
+
+</head>
+
+
+<body>
+
+
+    <!-- ========================= -->
+    <!-- NAVBAR -->
+    <!-- ========================= -->
+
+    <nav class="navbar">
+
+        <div class="logo-area">
+
+            <img
+                src="imagens/logoinfinito.png"
+                alt="Logo Infopataz"
+            >
+
+            <span>INFOPATAZ</span>
+
+        </div>
+
+    </nav>
+
+
+    <!-- ========================= -->
+    <!-- CONTEÚDO -->
+    <!-- ========================= -->
+
+    <main class="terms-page">
+
+        <div class="terms-container">
+
+
+            <!-- CABEÇALHO -->
+
+            <header class="terms-header">
+
+                <span class="mini-tag">
+
+                    <i class="fa-solid fa-file-contract"></i>
+
+                    DOCUMENTO LEGAL
+
+                </span>
+
+
+                <h1>
+                    Termos e Condições
+                </h1>
+
+
+                <p>
+                    Leia atentamente os termos e condições
+                    para utilização do Infopataz.
+                </p>
+
+            </header>
+
+
+
+            <!-- ========================= -->
+            <!-- DOCUMENTO -->
+            <!-- ========================= -->
+
+            <section class="terms-content">
+
+                <!--
+                    O conteúdo abaixo NÃO fica no HTML.
+
+                    O JavaScript irá carregar
+                    o arquivo TXT nesta área.
+                -->
+
+                <div id="terms-text">
+
+                    Carregando Termos e Condições...
+
+                </div>
+
+            </section>
+
+
+
+            <!-- ========================= -->
+            <!-- VOLTAR -->
+            <!-- ========================= -->
+
+            <div class="terms-back">
+
+                <a
+                    href="index.html"
+                    class="btn btn-primary"
+                >
+
+                    <i class="fa-solid fa-arrow-left"></i>
+
+                    Voltar para o Infopataz
+
+                </a>
+
+            </div>
+
+
+        </div>
+
+    </main>
+
+
+
+    <!-- ========================= -->
+    <!-- FOOTER -->
+    <!-- ========================= -->
+
+    <footer>
+
+        <div class="footer-bottom">
+
+            <p>
+                © 2026 Infopataz • Todos os direitos reservados.
+            </p>
+
+
+            <a
+                href="termos-e-condicoes.html"
+                class="footer-terms"
+            >
+                Termos e Condições
+            </a>
+
+            <br>
+
+
+            <a
+                href="politica-de-privacidade.html"
+                class="footer-terms"
+            >
+                Política de Privacidade
+            </a>
+
+        </div>
+
+    </footer>
+
+
+
+    <!-- ========================= -->
+    <!-- CARREGAR TXT -->
+    <!-- ========================= -->
+
+    <script>
+
+        fetch('textos/termos-e-condicoes.txt')
+
+            .then(response => {
+
+                if (!response.ok) {
+
+                    throw new Error(
+                        'Erro ao carregar o arquivo de Termos e Condições.'
+                    );
+
+                }
+
+                return response.text();
+
+            })
+
+            .then(text => {
+
+                document.getElementById('terms-text').textContent = text;
+
+            })
+
+            .catch(error => {
+
+                document.getElementById('terms-text').textContent =
+                    'Não foi possível carregar os Termos e Condições.';
+
+                console.error(error);
+
+            });
+
+    </script>
+
+
+</body>
+
+</html>
