@@ -556,7 +556,18 @@ footer{
     text-align:center;
     color:#777;
 }
+.footer-terms{
+    display:inline-block;
+    margin-top:12px;
+    color:#777;
+    font-size:0.8rem;
+    text-decoration:none;
+    transition:0.3s ease;
+}
 
+.footer-terms:hover{
+    color:#ff7b00;
+}
 /* ========================= */
 /* RESPONSIVO */
 /* ========================= */
